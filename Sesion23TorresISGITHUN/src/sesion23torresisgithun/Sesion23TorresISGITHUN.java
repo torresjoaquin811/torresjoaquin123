@@ -16,6 +16,10 @@ public class Sesion23TorresISGITHUN {
      */
     public static void main(String[] args) {
         System.out.println("Pruebade GitHUB 1 Torres");
+        System.out.println("Pruebade GitHUB 2 Torres");
+        System.out.println("Pruebade GitHUB 3 Torres");
+        System.out.println("Pruebade GitHUB 4 Torres");
+        System.out.println("Pruebade GitHUB 5 Torres");
     }
     
 }
